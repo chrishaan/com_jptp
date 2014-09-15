@@ -1,0 +1,6 @@
+<root>
+    <params>
+        <param name="emails" type="text" label="Registration Emails:" size="30" description="Comma separated list of email addresses that registrations should be sent to." />
+        <param name="application_emails" type="text" label="Application Emails:" size="30" description="Comma separated list of email addresses that agency applications should be sent to." />
+    </params>
+</root>

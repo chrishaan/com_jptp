@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+    <layout title="JPTP Event Details">
+            <message><![CDATA[JPTP Event Details]]></message>
+    </layout>
+    <state>
+        <name>JPTP Event Details</name>
+        <description>JPTP Single Event Detail View</description>
+    </state>
+</metadata>

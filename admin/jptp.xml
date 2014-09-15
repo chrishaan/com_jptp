@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<install type="component" version="1.5.0">
+<name>JPTP Registration Calendar</name>
+<description>This is the JPTP Events Manager Component</description>
+<creationDate>05-30-2012</creationDate>
+<author>Chris Haan</author>
+<authorEmail>chaan@ou.edu</authorEmail>
+<authorUrl>http://www.nrcys.ou.edu</authorUrl>
+<copyright>Copyright National Resource Center for Youth Services</copyright>
+
+<files folder="site">
+    
+</files>
+
+<administration>
+    <menu>JPTP Events</menu>
+    <files folder="admin">
+        
+    </files>
+    
+</administration>
+</install>
